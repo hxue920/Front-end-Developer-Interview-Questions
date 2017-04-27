@@ -145,6 +145,7 @@ This file contains a number of front-end interview questions that can be used wh
 5. Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
   * [Cory](jsQuestions/question5-cory.md)
+  * [Howard](jsQuestions/question5-howard.md)
 6. What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
   * [Bobby](jsQuestions/question6-bobby.md)

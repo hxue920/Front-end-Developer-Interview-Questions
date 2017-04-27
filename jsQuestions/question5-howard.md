@@ -1,0 +1,1 @@
+'function foo(){ }();' won't work because 'function foo(){ }' is not a function expression.  To make it work it needs to be wrapped in '()'.  So it becomes '(function foo(){ })()'.
