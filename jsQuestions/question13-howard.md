@@ -1,0 +1,1 @@
+Function.prototype.bind is a method for the Function constructor that will take a function and returns a new function that has its context bound to the first parameter of the bind call.  That returned function can then be called without worrying about what context will it be invoked from.
