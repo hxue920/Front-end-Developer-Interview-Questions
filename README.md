@@ -149,6 +149,7 @@ This file contains a number of front-end interview questions that can be used wh
 6. What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
   * [Bobby](jsQuestions/question6-bobby.md)
+  * [Howard](jsQuestions/question8-howard.md)
 7. What is a closure, and how/why would you use one?
   * [Bobby](jsQuestions/question7-bobby.md)
 8. What's a typical use case for anonymous functions?
@@ -161,6 +162,7 @@ This file contains a number of front-end interview questions that can be used wh
 12. What's the difference between `.call` and `.apply`?
   * [Bobby](jsQuestions/question12-bobby.md)
 13. Explain `Function.prototype.bind`.
+  * [Howard](jsQuestions/question13-howard.md)
 14. When would you use `document.write()`?
 15. What's the difference between feature detection, feature inference, and using the UA string?
 16. Explain Ajax in as much detail as possible.
