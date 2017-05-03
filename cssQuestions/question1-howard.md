@@ -1,0 +1,1 @@
+CLASS can be attached to muliple html elements on the DOM while ID is specific to only one element.
