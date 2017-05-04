@@ -93,7 +93,7 @@ This file contains a number of front-end interview questions that can be used wh
 
 1. What is the difference between classes and IDs in CSS?
   * [Cory](cssQuestions/question1-cory.md)
-  * [Cory](cssQuestions/question1-howard.md)
+  * [howard](cssQuestions/question1-howard.md)
 2. What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
   * [Cory](cssQuestions/question2-cory.md)
 3. Describe Floats and how they work.
@@ -142,6 +142,7 @@ This file contains a number of front-end interview questions that can be used wh
   * [Kevin](jsQuestions/question2-kevin.md)
 3. Explain how prototypal inheritance works
   * [Bobby](jsQuestions/question3-bobby.md)
+  * [Howard](jsQuestions/question3-howard.md)
 4. What do you think of AMD vs CommonJS?
 5. Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
