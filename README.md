@@ -116,6 +116,7 @@ This file contains a number of front-end interview questions that can be used wh
 13. Have you used or implemented media queries or mobile specific layouts/CSS?
 14. Are you familiar with styling SVG?
 15. How do you optimize your webpages for print?
+  * [Howard](cssQuestions/question15-howard.md)
 16. What are some of the "gotchas" for writing efficient CSS?
 17. What are the advantages/disadvantages of using CSS preprocessors?
   * Describe what you like and dislike about the CSS preprocessors you have used.
@@ -156,6 +157,7 @@ This file contains a number of front-end interview questions that can be used wh
   * [Bobby](jsQuestions/question7-bobby.md)
 8. What's a typical use case for anonymous functions?
   * [Bobby](jsQuestions/question8-bobby.md)
+  * [Howard](jsQuestions/question8-howard.md)
 9. How do you organize your code? (module pattern, classical inheritance?)
 10. What's the difference between host objects and native objects?
   * [Bobby](jsQuestions/question10-bobby.md)
