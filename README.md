@@ -175,6 +175,7 @@ This file contains a number of front-end interview questions that can be used wh
 19. Have you ever used JavaScript templating?
   * If so, what libraries have you used?
 20. Explain "hoisting".
+  * [Howard](jsQuestions/question20-howard.md)
 21. Describe event bubbling.
 22. What's the difference between an "attribute" and a "property"?
 23. Why is extending built-in JavaScript objects not a good idea?
